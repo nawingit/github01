@@ -1,0 +1,12 @@
+<aspectj>
+<aspects>
+<aspect name="com.projectvolumemanagement.domain.CheckProduckController_Roo_Controller"/>
+<aspect name="com.projectvolumemanagement.domain.CheckProduck_Roo_ToString"/>
+<aspect name="com.projectvolumemanagement.domain.CheckProduck_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.projectvolumemanagement.domain.CheckProduck_Roo_Jpa_Entity"/>
+<aspect name="com.projectvolumemanagement.domain.CheckProduck_Roo_Configurable"/>
+<aspect name="com.projectvolumemanagement.domain.CheckProduck_Roo_JavaBean"/>
+<aspect name="com.projectvolumemanagement.domain.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+</aspects>
+</aspectj>
+
